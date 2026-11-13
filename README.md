@@ -17,6 +17,7 @@ open it. You never have to download it again, and the links below never change.
 | Maitpanel Shop | https://shop.maitpanel.com | [maitpanel-shop.apk](https://github.com/maitpanel/maitpanel-apps/releases/latest/download/maitpanel-shop.apk) |
 | Maitpanel Clips | https://clips.maitpanel.com | [maitpanel-clips.apk](https://github.com/maitpanel/maitpanel-apps/releases/latest/download/maitpanel-clips.apk) |
 | Sheba IT Solution | https://shebaitsolution.com | [sheba-it-solution.apk](https://github.com/maitpanel/maitpanel-apps/releases/latest/download/sheba-it-solution.apk) |
+| Maitpanel Travels | https://travel.maitpanel.com | [maitpanel-travel.apk](https://github.com/maitpanel/maitpanel-apps/releases/latest/download/maitpanel-travel.apk) |
 | Maitpanel | https://maitpanel.com | [maitpanel-site.apk](https://github.com/maitpanel/maitpanel-apps/releases/latest/download/maitpanel-site.apk) |
 
 **Install · ইনস্টল**
